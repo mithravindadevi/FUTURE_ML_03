@@ -1,0 +1,5 @@
+Dataset used:
+https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
+
+File used:
+resume.csv
